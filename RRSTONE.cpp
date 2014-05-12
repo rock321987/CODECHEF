@@ -1,3 +1,8 @@
+/*
+	check any of test case for different value of k
+	Ad-hoc
+*/
+
 #include <cstdio>
 #include <cstring>
  
